@@ -1,3 +1,6 @@
+JSL02 LOOM VIDEO [https://www.loom.com/share/21f5afc416b847f5b6be4d9c74c92a9f?sid=40d0c699-2ebd-47e6-85a8-6719a61b01ab]
+
+
 # [JSL02] Submission: Debug the DOM
 
 You will: 
